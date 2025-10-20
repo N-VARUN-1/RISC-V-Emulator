@@ -37,3 +37,6 @@ Example
 
 
 🧩 “Building hardware logic in software — one instruction at a time.”
+
+https://github.com/N-VARUN-1/RISC-V-Emulator
+
