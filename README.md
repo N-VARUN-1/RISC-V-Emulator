@@ -30,7 +30,9 @@ Open your terminal in the emulator directory and execute:
 ./riscv_emulator <binary_filename>
 ```
 Example
-```./riscv_emulator binaries/add_test.bin```
+```bash
+./riscv_emulator binaries/add_test.bin
+```
 
 
 
